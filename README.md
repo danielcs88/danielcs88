@@ -17,8 +17,6 @@ I'm [**Daniel Cárdenas**](https://danielcs88.github.io/index.html), I am a unde
 - 👯 I’m looking to collaborate on:
   * Economic research: trends in Miami
 
-- 🤔 I’m looking for help with:
-
 - 💬 Ask me about:
   * Data scraping
   * Pandas
@@ -31,4 +29,5 @@ I'm [**Daniel Cárdenas**](https://danielcs88.github.io/index.html), I am a unde
 - ⚡ Fun fact:
   * I am originally from Bogotá, Colombia 🇨🇴
 
-<!-- 😄 Pronouns: ...-->
+<!-- - 😄 Pronouns: ...-->
+<!--- 🤔 I’m looking for help with: -->
