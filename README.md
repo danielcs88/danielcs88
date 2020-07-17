@@ -1,12 +1,9 @@
-### Hi there 👋
+### Hello / _Muy buenos días/tardes/noches_ 👋
 
-<!--
-**danielcs88/danielcs88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm **Daniel Cárdenas**, I am a undergraduate Economics student at Florida International Univeristy.
 
 - 🔭 I’m currently working on:
-  * Launching a dashboard for [CUES](http://instagram.com/cuesatfiu), our Club for Undergraduate Student
+  * Launching a dashboard for [CUES](http://instagram.com/cuesatfiu), our Club for Undergraduate Students
 
 - 🌱 I’m currently learning:
   * Python/Data Science/Machine Learning
@@ -25,8 +22,7 @@ Here are some ideas to get you started:
   * [Twitter](https://twitter.com/DanielCardenas_)
   * [LinkedIn](https://www.linkedin.com/in/danielcs88/)
 
-- 😄 Pronouns: ...
-
 - ⚡ Fun fact:
   * I am originally from Bogotá, Colombia 🇨🇴
--->
+
+<!-- 😄 Pronouns: ...-->- 
