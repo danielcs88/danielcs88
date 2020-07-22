@@ -12,7 +12,7 @@ I'm [**Daniel Cárdenas**](https://danielcs88.github.io/index.html), I am a unde
    
 
 - I’m currently learning 🌱:
-  * <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="drawing" width="16"/>Python/Data Science/Machine Learning
+  * <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="drawing" width="16"/> Python/Data Science/Machine Learning
 
 - I’m looking to collaborate on 👯:
   * Economic research: trends in Miami
