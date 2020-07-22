@@ -12,7 +12,7 @@ I'm [**Daniel Cárdenas**](https://danielcs88.github.io/index.html), I am a unde
    
 
 - 🌱 I’m currently learning:
-  ![python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+  ![python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg =32x)
   * Python/Data Science/Machine Learning
 
 - 👯 I’m looking to collaborate on:
