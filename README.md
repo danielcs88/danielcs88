@@ -2,7 +2,7 @@
 
 I'm [**Daniel Cárdenas**](https://danielcs88.github.io/index.html), I am a undergraduate Economics student at Florida International University.
 
-- 🔭 I’m currently working on:
+- I’m currently working on 🔭:
   * Launching a dashboard for [CUES](http://instagram.com/cuesatfiu), our Club for Undergraduate Students
   * COVID-19: Rₜ Analysis
    - [Florida (county level)](https://danielcs88.github.io/covid-19.html)
@@ -11,23 +11,22 @@ I'm [**Daniel Cárdenas**](https://danielcs88.github.io/index.html), I am a unde
   * [Florida: Unemployment Rate -> Choropleth Map](https://danielcs88.github.io/cues/flMay2020_unemp_map.html)
    
 
-- 🌱 I’m currently learning:
-  <p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="drawing" width="16"/>
-  * Python/Data Science/Machine Learning
+- I’m currently learning 🌱:
+  * <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="drawing" width="16"/>Python/Data Science/Machine Learning
 
-- 👯 I’m looking to collaborate on:
+- I’m looking to collaborate on 👯:
   * Economic research: trends in Miami
 
-- 💬 Ask me about:
+- Ask me about 💬:
   * Data scraping
   * Pandas
   * Python
 
-- 📫 How to reach me:
+- How to reach me 📫:
   * [Twitter](https://twitter.com/DanielCardenas_)
   * [LinkedIn](https://www.linkedin.com/in/danielcs88/)
 
-- ⚡ Fun fact:
+- Fun fact ⚡:
   * I am originally from Bogotá, Colombia 🇨🇴
 
 <!-- - 😄 Pronouns: ...-->
