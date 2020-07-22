@@ -8,10 +8,11 @@ I'm [**Daniel Cárdenas**](https://danielcs88.github.io/index.html), I am a unde
    - [Florida (county level)](https://danielcs88.github.io/covid-19.html)
    - [Colombia (a nivel departamental)](https://danielcs88.github.io/Colombia%20R_t.html)
    - [Bogotá (a nivel de localidad)](https://danielcs88.github.io/Bogota_Rt.html)
-  * [Florida | Unemployment Rate | Choropleth Map](https://danielcs88.github.io/cues/flMay2020_unemp_map.html)
+  * [Florida: Unemployment Rate -> Choropleth Map](https://danielcs88.github.io/cues/flMay2020_unemp_map.html)
    
 
 - 🌱 I’m currently learning:
+  ![python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
   * Python/Data Science/Machine Learning
 
 - 👯 I’m looking to collaborate on:
