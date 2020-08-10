@@ -1,39 +1,41 @@
 ### Hello / _Muy buenos días/tardes/noches_ 👋
 
-I'm [**Daniel Cárdenas**](https://danielcs88.github.io/index.html), I am a undergraduate Economics student at Florida International University.
+### **Daniel Cárdenas**
 
-- I’m currently working on 🔭:
+📚 Economics undergraduate student at Florida International University.<br>
+🇨🇴 From Bogotá, Colombia<br>
+🇺🇸 @ Miami, FL<br>
 
-  - Launching a dashboard for [CUES](http://instagram.com/cuesatfiu), our Club for Undergraduate Students
-  - **COVID-19: Rₜ Analysis**
+### Currently working on 👨🏻‍💻:
 
-    - [Florida (county level)](https://danielcs88.github.io/covid-19.html)
-    - [Colombia (a nivel departamental)](https://danielcs88.github.io/Colombia%20R_t.html)
-    - [Bogotá (a nivel de localidad)](https://danielcs88.github.io/Bogota_Rt.html)
+🦠 **COVID-19: Rₜ Analysis**
 
-  - [Florida: Unemployment Rate -> Choropleth Map](https://danielcs88.github.io/cues/flMay2020_unemp_map.html)
+- [Florida (county level)](https://danielcs88.github.io/covid-19.html)
+- [Colombia (a nivel departamental)](https://danielcs88.github.io/Colombia%20R_t.html)
+- [Bogotá (a nivel de localidad)](https://danielcs88.github.io/Bogota_Rt.html)
 
-- I’m currently learning 🌱:
+📉 [Florida: Unemployment Rate -> Choropleth Map](https://danielcs88.github.io/cues/flMay2020_unemp_map.html)
+📈 Launching a dashboard for [CUES](http://instagram.com/cuesatfiu), our Club for Undergraduate Students<br>
 
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="drawing" width="16"/> Python/Data Science/Machine Learning
+### Currently Learning 🌱:
 
-- I’m looking to collaborate on 👯:
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="drawing" width="16"/> Python/Data Science/Machine Learning
 
-  - Economic research: trends in Miami
+### Collaboration Interests 🤝🏼:
 
-- Ask me about 💬:
+📊 Economic research: trends in Miami
 
-  - Data scraping
-  - Pandas
-  - Python
+### Ask me about 💬:
 
-- How to reach me 📫:
+- Data scraping
+- Pandas
+- Python
 
-  - [Twitter](https://twitter.com/DanielCardenas_)
-  - [LinkedIn](https://www.linkedin.com/in/danielcs88/)
+### How to reach me 🌎:
 
-- Fun fact ⚡:
-  - I am from Bogotá, Colombia 🇨🇴
+[Site](https://danielcs88.github.io/)
+[Twitter](https://twitter.com/DanielCardenas_)
+[LinkedIn](https://www.linkedin.com/in/danielcs88/)
 
 <!-- - 😄 Pronouns: ...-->
 <!--- 🤔 I’m looking for help with: -->
