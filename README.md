@@ -14,7 +14,7 @@
 - [Colombia (a nivel departamental)](https://danielcs88.github.io/Colombia%20R_t.html)
 - [Bogotá (a nivel de localidad)](https://danielcs88.github.io/Bogota_Rt.html)
 
-📉 [Florida: Unemployment Rate -> Choropleth Map](https://danielcs88.github.io/cues/flMay2020_unemp_map.html)
+📉 [Florida: Unemployment Rate -> Choropleth Map](https://danielcs88.github.io/cues/flMay2020_unemp_map.html)<br>
 📈 Launching a dashboard for [CUES](http://instagram.com/cuesatfiu), our Club for Undergraduate Students<br>
 
 ### Currently Learning 🌱:
@@ -33,8 +33,8 @@
 
 ### How to reach me 🌎:
 
-[Site](https://danielcs88.github.io/)
-[Twitter](https://twitter.com/DanielCardenas_)
+[Site](https://danielcs88.github.io/)<br>
+[Twitter](https://twitter.com/DanielCardenas_)<br>
 [LinkedIn](https://www.linkedin.com/in/danielcs88/)
 
 <!-- - 😄 Pronouns: ...-->
