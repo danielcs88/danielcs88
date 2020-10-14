@@ -15,7 +15,7 @@
 - [Bogotá (a nivel de localidad)](https://danielcs88.github.io/Bogota_Rt.html)
 
 📉 [Florida: Unemployment Rate -> Choropleth Map](https://danielcs88.github.io/cues/fl_county_unemp_map.html)<br>
-📈 Contributing for [FIU CUES DataHub](https://fiueconomicdashboard.com/), our Club for Undergraduate Students<br>
+📈 Contributing for [FIU CUES DataHub](https://fldatahub.com/), our Club for Undergraduate Students<br>
 
 ### Currently Learning 🌱:
 
