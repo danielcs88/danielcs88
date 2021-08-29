@@ -2,6 +2,7 @@
 
 ### **Daniel Cárdenas**
 
+📚 Finance, MSF, Florida International University <br>
 📚 Economics, BSc, Florida International University<br>
 🇨🇴 From Bogotá, Colombia<br>
 🇺🇸 @ Miami, FL<br>
@@ -12,11 +13,18 @@
 
 🦠 **COVID-19: Rₜ Analysis**
 
-- [Florida (county level)](https://danielcs88.github.io/covid-19.html)
-- [Colombia (a nivel departamental)](https://danielcs88.github.io/Colombia%20R_t.html)
-- [Bogotá (a nivel de localidad)](https://danielcs88.github.io/Bogota_Rt.html)
+- [Choropleth Map: Rₜ values per state from Epiforecasts.io](https://danielcs88.github.io/html/rt.html)
+  Choropleth map from latest values from [Epiforecasts.io](https://epiforecasts.io/covid/posts/national/united-states/)
+
+
+
+<!-- - [Florida (county level)](https://danielcs88.github.io/covid-19.html) -->
+<!-- - [Colombia (a nivel departamental)](https://danielcs88.github.io/Colombia%20R_t.html) -->
+<!-- - [Bogotá (a nivel de localidad)](https://danielcs88.github.io/Bogota_Rt.html) -->
 
 📉 [Florida: Unemployment Rate -> Choropleth Map](https://danielcs88.github.io/cues/fl_county_unemp_map.html)<br>
+
+📉 [Florida: Employment status of the civilian noninstitutional population, seasonally adjusted (1970-)](https://danielcs88.github.io/cues/Florida_unemp_historical.html)
 <!--📈 Contributing for [FIU CUES DataHub](https://fldatahub.com/), our Club for Undergraduate Students<br> -->
 
 ### Currently Learning 🌱:
