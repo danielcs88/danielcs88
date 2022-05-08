@@ -26,11 +26,11 @@
 
 - [Mutual Fund Portfolio: Markowitz Portfolio Optimization](https://nbviewer.org/github/danielcs88/project_fin6525/blob/main/Output_Project_Cardenas_Daniel_6102358.ipynb)
 
-- [Florida (county level)](https://danielcs88.github.io/covid-19.html) -->
+- [Florida (county level)](https://danielcs88.github.io/covid-19.html)
 
 - [Colombia (a nivel departamental)](https://danielcs88.github.io/Colombia%20R_t.html)
 
-- [Bogotá (a nivel de localidad)](https://danielcs88.github.io/Bogota_Rt.html) -->
+- [Bogotá (a nivel de localidad)](https://danielcs88.github.io/Bogota_Rt.html)
 
 - [National Longitudinal Survey of Youth 1979: An Analysis on the effects of characteristics on Unemployment](https://nbviewer.org/github/danielcs88/NLSY_79/blob/master/Project.ipynb)
 
