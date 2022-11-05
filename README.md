@@ -11,9 +11,9 @@
 
 ### Currently working on 👨🏻‍💻:
 
-🦠 **COVID-19: Rₜ Analysis**
+🦠 **COVID-19: Reproductive Number (Rₜ) Analysis**
 
-- [Choropleth Map: Rₜ values per state from Epiforecasts.io](https://danielcs88.github.io/html/rt.html)
+- [Choropleth Map: COVID-19 Reproductive Number (Rₜ) values per state from Epiforecasts.io](https://danielcs88.github.io/html/rt.html)
   Choropleth map from latest values from [Epiforecasts.io](https://epiforecasts.io/covid/posts/national/united-states/)
 
 📉 [Florida: Unemployment Rate -> Choropleth Map](https://danielcs88.github.io/cues/fl_county_unemp_map.html)<br>
@@ -26,11 +26,11 @@
 
 - [Mutual Fund Portfolio: Markowitz Portfolio Optimization](https://nbviewer.org/github/danielcs88/project_fin6525/blob/main/Output_Project_Cardenas_Daniel_6102358.ipynb)
 
-- [Florida (county level)](https://danielcs88.github.io/covid-19.html)
+- [COVID-19 Reproductive Number (Rₜ): Florida (county level)](https://danielcs88.github.io/covid-19.html)
 
-- [Colombia (a nivel departamental)](https://danielcs88.github.io/Colombia%20R_t.html)
+- [COVID-19 Número reproductivo (Rₜ): Colombia (a nivel departamental)](https://danielcs88.github.io/Colombia%20R_t.html)
 
-- [Bogotá (a nivel de localidad)](https://danielcs88.github.io/Bogota_Rt.html)
+- [COVID-19 Número reproductivo: Bogotá (a nivel de localidad)](https://danielcs88.github.io/Bogota_Rt.html)
 
 - [National Longitudinal Survey of Youth 1979: An Analysis on the effects of characteristics on Unemployment](https://nbviewer.org/github/danielcs88/NLSY_79/blob/master/Project.ipynb)
 
