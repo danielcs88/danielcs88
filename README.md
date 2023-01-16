@@ -51,7 +51,7 @@
 ### How to reach me 🌎:
 
 [Site](https://danielcs88.github.io/)<br>
-[Twitter](https://twitter.com/DanielCardenas_)<br>
+[Mastodon](https://mastodon.world/@danielcs88)<br>
 [LinkedIn](https://www.linkedin.com/in/danielcs88/)
 
 <!-- - 😄 Pronouns: ...-->
