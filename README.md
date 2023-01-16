@@ -51,7 +51,7 @@
 ### How to reach me 🌎:
 
 [Site](https://danielcs88.github.io/)<br>
-[Mastodon](https://mastodon.world/@danielcs88)<br>
+[Mastodon](https://mastodon.cloud/@danielcs88)<br>
 [LinkedIn](https://www.linkedin.com/in/danielcs88/)
 
 <!-- - 😄 Pronouns: ...-->
