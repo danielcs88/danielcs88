@@ -11,10 +11,7 @@
 
 ### Currently working on 👨🏻‍💻:
 
-🦠 **COVID-19: Reproductive Number (Rₜ) Analysis**
 
-- [Choropleth Map: COVID-19 Reproductive Number (Rₜ) values per state from Epiforecasts.io](https://danielcs88.github.io/html/rt.html)
-  Choropleth map from latest values from [Epiforecasts.io](https://epiforecasts.io/covid/posts/national/united-states/)
 
 📉 [Florida: Unemployment Rate -> Choropleth Map](https://danielcs88.github.io/cues/fl_county_unemp_map.html)<br>
 
@@ -23,6 +20,11 @@
 <!--📈 Contributing for [FIU CUES DataHub](https://fldatahub.com/), our Club for Undergraduate Students<br> -->
 
 ### Previous Projects
+
+🦠 **COVID-19: Reproductive Number (Rₜ) Analysis**
+
+- [Choropleth Map: COVID-19 Reproductive Number (Rₜ) values per state from Epiforecasts.io](https://danielcs88.github.io/html/rt.html)
+  Choropleth map from latest values from [Epiforecasts.io](https://epiforecasts.io/covid/posts/national/united-states/)
 
 - [Mutual Fund Portfolio: Markowitz Portfolio Optimization](https://nbviewer.org/github/danielcs88/project_fin6525/blob/main/Output_Project_Cardenas_Daniel_6102358.ipynb)
 
