@@ -1,4 +1,4 @@
-### Hello / _Muy buenos días/tardes/noches_ 👋
+### Hello / _Muy bueno/as días/tardes/noches_ 👋
 
 ### **Daniel Cárdenas**
 
